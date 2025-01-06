@@ -1,0 +1,19 @@
+
+System Information:
+--------------------
+OS Type: Windows_NT
+Total Memory: 5996.07 MB
+Free Memory: 650.93 MB
+CPU Details:
+  CPU 1: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 2: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 3: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 4: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 5: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 6: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 7: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 8: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 9: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 10: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 11: AMD Ryzen 5 5600H with Radeon Graphics         
+  CPU 12: AMD Ryzen 5 5600H with Radeon Graphics         
