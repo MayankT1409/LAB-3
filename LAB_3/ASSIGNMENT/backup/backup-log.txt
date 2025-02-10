@@ -1,0 +1,6 @@
+[2025-02-10T17:39:08.347Z] Copied: CN_PRAC1.docx (Size: 436989 bytes)
+[2025-02-10T17:39:08.389Z] Copied: Odoo X CHARUSAT.docx (Size: 451542 bytes)
+[2025-02-10T17:39:08.389Z] Backup completed successfully.
+[2025-02-10T18:03:02.911Z] Copied: CN_PRAC1.docx (Size: 436989 bytes)
+[2025-02-10T18:03:02.937Z] Copied: Odoo X CHARUSAT.docx (Size: 451542 bytes)
+[2025-02-10T18:03:02.938Z] Backup completed successfully.
